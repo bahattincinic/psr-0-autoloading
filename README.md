@@ -1,4 +1,4 @@
-PSR-0 Standart Autoloading
+PSR-0 Autoloading Standard
 =================
 
 Sample Project Template Symfony2
